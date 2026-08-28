@@ -1,0 +1,1 @@
+main.exe < marks.txt 1> marks.svg 2>NUL

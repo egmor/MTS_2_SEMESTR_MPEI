@@ -1,0 +1,1 @@
+main.exe < big_test.txt 1> big_test.svg
